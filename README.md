@@ -1,1 +1,1 @@
-# gyakorlat gitthub
+# gyakorlat gittthub
