@@ -1,1 +1,1 @@
-# gyakorlat github
+# gyakorlat gitthub
